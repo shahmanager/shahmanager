@@ -93,9 +93,39 @@ I am a **Full-Stack Engineer** and **AI Systems Builder** passionate about archi
 
 ---
 
-### 🚀 Featured Open-Source Projects
+### 🚀 Featured Projects & Architectures
 
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/shahmanager/voice-on-call-ai-agent">🎙️ Voice On-Call AI Agent (Shubh)</a></h3>
+      <p align="center">Production-grade conversational voice agent for live telephony and real-time enterprise support.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Pipecat_Voice_AI-6C5CE7?style=flat-square&logo=webrtc&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_Live_S2S-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sarvam_AI-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <ul>
+        <li><b>Real-Time S2S:</b> Full-duplex Indian-English/Hinglish streaming with Gemini Live S2S & Pipecat.</li>
+        <li><b>Deterministic Safety & Grounding:</b> Hard safety circuits + SQLite FTS5 cited retrieval over product manuals.</li>
+        <li><b>Telephony & State:</b> Vobiz media streaming protocol and hybrid text checkpoints for session cycling.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/shahmanager/jarvis-meets-friday">🤖 Jarvis Meets Friday</a></h3>
+      <p align="center">Persistent two-agent collaborative office environment with verified execution.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Autonomous_Agents-6C5CE7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cloud_Execution-2496ED?style=flat-square" />
+      </p>
+      <ul>
+        <li>Cloud execution paired with owner-reviewed laptop evidence collection.</li>
+        <li>Persistent agent memory, inter-agent messaging, and architectural roadmap.</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/shahmanager/wardround">🏥 WardRound</a></h3>
@@ -112,21 +142,6 @@ I am a **Full-Stack Engineer** and **AI Systems Builder** passionate about archi
       </ul>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/shahmanager/jarvis-meets-friday">🤖 Jarvis Meets Friday</a></h3>
-      <p align="center">Persistent two-agent collaborative office environment with verified execution.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Autonomous_Agents-6C5CE7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Cloud_Execution-2496ED?style=flat-square" />
-      </p>
-      <ul>
-        <li>Cloud execution paired with owner-reviewed laptop evidence collection.</li>
-        <li>Persistent agent memory, messaging, and architectural roadmap.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center"><a href="https://github.com/shahmanager/frontier">⚡ Frontier</a></h3>
       <p align="center">One-shot build discipline & parallel-safe multi-agent leases for AI coding.</p>
       <p align="center">
@@ -139,6 +154,8 @@ I am a **Full-Stack Engineer** and **AI Systems Builder** passionate about archi
         <li>Implements parallel-safe leases for concurrent agent operations.</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/shahmanager/federated-credit-risk">🔒 Federated Credit Risk</a></h3>
       <p align="center">Privacy-preserving ML across simulated banking nodes using FedAvg.</p>
@@ -152,9 +169,7 @@ I am a **Full-Stack Engineer** and **AI Systems Builder** passionate about archi
         <li>Aggregates model weights centrally without sharing raw customer data.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
+    <td width="50%">
       <h3 align="center"><a href="https://github.com/shahmanager/pharma-line-track-trace-platform">📦 Pharma Line Track-and-Trace Platform</a></h3>
       <p align="center">Packaging line serialization simulation, compliance reporting, and EPCIS-ready flows.</p>
       <p align="center">
@@ -162,6 +177,10 @@ I am a **Full-Stack Engineer** and **AI Systems Builder** passionate about archi
         <img src="https://img.shields.io/badge/EPCIS-008080?style=flat-square" />
         <img src="https://img.shields.io/badge/Supply_Chain_Security-4B0082?style=flat-square" />
       </p>
+      <ul>
+        <li>Simulates high-speed pharma packaging lines with batch serialization.</li>
+        <li>Generates verifiable EPCIS-compliant audit and traceability events.</li>
+      </ul>
     </td>
   </tr>
 </table>
