@@ -152,31 +152,6 @@ flowchart LR
   </tr>
 </table>
 
----
-
-### 📊 GitHub Activity &amp; Telemetry
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmanager&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Telemetry Graph" />
-  
-  <br /><br />
-  
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=shahmanager&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Arya's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahmanager&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <img src="https://streak-stats.demolab.com/?user=shahmanager&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&dates=8B949E" alt="GitHub Streak" />
-</div>
-
 <br />
 
 <div align="center">
