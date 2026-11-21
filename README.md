@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,47,0,180,216,114,9,183&height=220&section=header&text=Arya%20Shah&fontSize=48&fontAlignY=36&desc=AI%20Systems%20%E2%80%A2%20Autonomous%20Agents%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Hardware&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,47,0,180,216,114,9,183&height=220&section=header&text=Arya%20Shah&fontSize=48&fontAlignY=36&desc=Builder%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Systems%20Tinkerer&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
 
   <a href="https://github.com/shahmanager">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Cloud+Systems+Engineer;Building+Autonomous+AI+Agents+%26+Voice+Pipelines;Distributed+Systems+%26+Federated+ML;Bridging+Physical+Hardware+with+Cloud+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Developer+%26+Computer+Science+Builder;Exploring+Autonomous+AI+Agents+%26+Voice+Pipelines;Tinkering+with+Full+Stack+%26+Embedded+Systems;Building+Things+From+First+Principles" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -19,12 +19,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full Stack Engineer** and **AI Systems Builder** passionate about architecting resilient production software across autonomous agent architectures, edge native cloud systems, and low level hardware firmware.
+Hi! I am a developer and builder passionate about AI systems, agentic workflows, and hands-on systems programming. I enjoy building functional projects from first principles, learning how complex systems work under the hood, and connecting high level AI models with practical applications and physical hardware.
 
-▸ 🔭 **What I am building:** Multi agent autonomous offices, real time voice pipelines, and high concurrency cloud systems.  
-▸ ⚡ **Engineering Breadth:** Edge computing with Cloudflare Workers and D1, full duplex voice agents (Pipecat, Sarvam, Gemini), and embedded C++ firmware for industrial printing.  
-▸ 🔬 **Core Interests:** Agentic memory and coordination, verifiable execution proofs, and privacy preserving machine learning (Federated Learning).  
-▸ 💬 **Ask me about:** Python, TypeScript, React, Cloudflare ecosystem, LiteLLM, Agent architectures, and bridging physical hardware with intelligent cloud workflows.
+▸ 🔭 **What I am working on:** Voice conversational agents, multi agent coordination setups, and full stack tools.  
+▸ ⚡ **Areas of exploration:** Real time speech pipelines (Pipecat, Gemini Live S2S), edge computing with Cloudflare Workers, and embedded C++ firmware.  
+▸ 🔬 **Curiosities:** How autonomous agents manage long term memory, privacy preserving distributed ML (Federated Learning), and writing clean, reliable code.  
+▸ 💬 **Let's talk about:** Python, TypeScript, React, AI experiments, hardware tinkering, and building things that solve real problems.
 
 ---
 
@@ -42,20 +42,20 @@ I am a **Full Stack Engineer** and **AI Systems Builder** passionate about archi
     <td>Python, TypeScript, JavaScript, C++, C, SQL, Bash</td>
   </tr>
   <tr>
-    <td width="22%"><b>AI &amp; Agents</b></td>
-    <td>PyTorch, Gemini API, LiteLLM, Pipecat Voice AI, Hugging Face, Multi Agent Systems</td>
+    <td width="22%"><b>AI &amp; Frameworks</b></td>
+    <td>PyTorch, Gemini API, LiteLLM, Pipecat Voice AI, Hugging Face</td>
   </tr>
   <tr>
     <td width="22%"><b>Web &amp; Backend</b></td>
     <td>React, Node.js, FastAPI, Cloudflare Workers, Cloudflare D1, Tailwind CSS</td>
   </tr>
   <tr>
-    <td width="22%"><b>Databases &amp; DevOps</b></td>
+    <td width="22%"><b>Tools &amp; Storage</b></td>
     <td>PostgreSQL, SQLite (FTS5), Redis, Docker, Git, GitHub Actions, Linux</td>
   </tr>
   <tr>
-    <td width="22%"><b>Systems &amp; Hardware</b></td>
-    <td>Embedded C++, Firmware Development, Hardware Integration, Distributed ML</td>
+    <td width="22%"><b>Hardware &amp; Systems</b></td>
+    <td>Embedded C++, Firmware Experiments, Hardware Interfacing</td>
   </tr>
 </table>
 
@@ -69,7 +69,7 @@ flowchart LR
     B --> C["Gemini Live S2S Engine"]
     C --> D{"Grounding & Safety"}
     D -->|"Query Cited Passages"| E[("SQLite FTS5 Manuals")]
-    D -->|"Safety Short Circuit"| F["Emergency Circuit Breaker"]
+    D -->|"Safety Short Circuit"| F["Safety Circuit Breaker"]
     D -->|"Synthesize Response"| G["Sarvam AI Speech"]
     G --> H["Live Telephony Stream"]
 
@@ -85,13 +85,13 @@ flowchart LR
 
 ---
 
-### 🚀 Featured Projects &amp; Architectures
+### 🚀 Projects &amp; Experiments
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/voice-on-call-ai-agent">🎙️ Voice On-Call AI Agent (Shubh)</a></h3>
-      <p align="center">Production grade conversational voice agent runtime designed for live telephony and real time enterprise support.</p>
+      <p align="center">A voice agent exploring live speech to speech conversations with grounded knowledge retrieval.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Pipecat_Voice_AI-6C5CE7?style=flat-square&logo=webrtc&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_Live_S2S-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -99,53 +99,54 @@ flowchart LR
         <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
       <ul>
-        <li><b>Real Time S2S:</b> Full duplex Indian English and Hinglish streaming with Gemini Live S2S and Pipecat.</li>
-        <li><b>Deterministic Safety and Grounding:</b> Model independent safety circuits plus SQLite FTS5 cited retrieval over product manuals.</li>
-        <li><b>Telephony and State:</b> Real time audio streaming protocol and hybrid text checkpoints for session cycling.</li>
+        <li><b>Speech to Speech:</b> Conversational audio in Indian English and Hinglish using Gemini Live S2S and Pipecat.</li>
+        <li><b>Grounded Answers:</b> Uses SQLite FTS5 text search over product manuals to cite passages instead of guessing.</li>
+        <li><b>Safety Guardrails:</b> Simple keyword interceptors that prioritize user safety before triggering model calls.</li>
+        <li><b>Telephony:</b> Streams live audio over WebSockets with state checkpointing between turns.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/jarvis-meets-friday">🤖 Jarvis Meets Friday</a></h3>
-      <p align="center">Persistent two agent collaborative office environment with verified execution.</p>
+      <p align="center">An experimental two agent setup exploring cloud execution, laptop verification, and memory.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Autonomous_Agents-6C5CE7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Multi_Agent-6C5CE7?style=flat-square" />
         <img src="https://img.shields.io/badge/Cloud_Execution-2496ED?style=flat-square" />
       </p>
       <ul>
-        <li>Cloud execution paired with owner reviewed laptop evidence collection.</li>
-        <li>Persistent agent memory, inter agent messaging, and architectural roadmap.</li>
-        <li>Verified task delivery with dual agent separation of concerns.</li>
+        <li>Separates background cloud task execution from local laptop evidence review.</li>
+        <li>Explores durable agent memory and structured messaging between collaborating agents.</li>
+        <li>Focuses on clear progress logging and verifiable completion criteria.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/frontier">⚡ Frontier</a></h3>
-      <p align="center">One shot build discipline and parallel safe multi agent leases for AI coding.</p>
+      <p align="center">A lightweight Python utility exploring multi agent file leases and SHA based build verification.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Stdlib_Only-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Cryptographic_Proof-00C896?style=flat-square" />
+        <img src="https://img.shields.io/badge/SHA_Proof-00C896?style=flat-square" />
       </p>
       <ul>
-        <li>Guarantees correct context and SHA bound verifiable build proofs.</li>
-        <li>Implements parallel safe leases for concurrent agent operations.</li>
-        <li>Zero external dependencies: self contained in a single standard library file.</li>
+        <li>Built in a single standard library Python file with zero third party dependencies.</li>
+        <li>Uses simple file leases to prevent race conditions during concurrent agent edits.</li>
+        <li>Computes SHA hashes to ensure clean context boundaries and reproducible build steps.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/federated-credit-risk">🔒 Federated Credit Risk</a></h3>
-      <p align="center">Privacy preserving ML across simulated banking nodes using FedAvg.</p>
+      <p align="center">A practical simulation of privacy preserving machine learning across banking nodes using FedAvg.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Federated_Learning-FF6F00?style=flat-square" />
         <img src="https://img.shields.io/badge/FedAvg-107C41?style=flat-square" />
       </p>
       <ul>
-        <li>Simulates distributed financial institutions training risk models locally.</li>
-        <li>Aggregates model weights centrally using Federated Averaging (FedAvg).</li>
-        <li>Guarantees zero raw customer financial data is transmitted across network boundaries.</li>
+        <li>Simulates distributed financial institutions training local models on private client data.</li>
+        <li>Aggregates model weights centrally via Federated Averaging without sharing raw records.</li>
+        <li>Explores the balance between predictive performance and data privacy.</li>
       </ul>
     </td>
   </tr>
