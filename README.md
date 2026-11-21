@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,47,0,180,216,114,9,183&height=220&section=header&text=Arya%20Shah&fontSize=48&fontAlignY=36&desc=AI%20Systems%20%E2%80%A2%20Autonomous%20Agents%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Hardware&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,47,0,180,216,114,9,183&height=220&section=header&text=Arya%20Shah&fontSize=48&fontAlignY=36&desc=AI%20Systems%20%E2%80%A2%20Autonomous%20Agents%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Hardware&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" />
 
   <a href="https://github.com/shahmanager">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Cloud+Systems+Engineer;Building+Autonomous+AI+Agents+%26+Voice+Pipelines;Distributed+Systems+%26+Federated+ML;Bridging+Physical+Hardware+with+Cloud+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Cloud+Systems+Engineer;Building+Autonomous+AI+Agents+%26+Voice+Pipelines;Distributed+Systems+%26+Federated+ML;Bridging+Physical+Hardware+with+Cloud+Agents" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -19,84 +19,79 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Engineer** and **AI Systems Builder** passionate about architecting resilient, production-ready software — spanning autonomous agent architectures, edge-native cloud systems, and low-level hardware firmware.
+I am a **Full Stack Engineer** and **AI Systems Builder** passionate about architecting resilient production software across autonomous agent architectures, edge native cloud systems, and low level hardware firmware.
 
-- 🔭 **What I'm building:** Multi-agent autonomous offices, real-time voice pipelines, and high-concurrency cloud systems.
-- ⚡ **Engineering Breadth:** Edge computing with Cloudflare Workers & D1, full-duplex voice agents (Pipecat, Sarvam, Gemini), and embedded C++ firmware for industrial printing.
-- 🔬 **Core Interests:** Agentic memory & coordination, verifiable execution proofs, and privacy-preserving machine learning (Federated Learning).
-- 💬 **Ask me about:** Python, TypeScript, React, Cloudflare ecosystem, LiteLLM, Agent architectures, and bridging physical hardware with intelligent cloud workflows.
+▸ 🔭 **What I am building:** Multi agent autonomous offices, real time voice pipelines, and high concurrency cloud systems.  
+▸ ⚡ **Engineering Breadth:** Edge computing with Cloudflare Workers and D1, full duplex voice agents (Pipecat, Sarvam, Gemini), and embedded C++ firmware for industrial printing.  
+▸ 🔬 **Core Interests:** Agentic memory and coordination, verifiable execution proofs, and privacy preserving machine learning (Federated Learning).  
+▸ 💬 **Ask me about:** Python, TypeScript, React, Cloudflare ecosystem, LiteLLM, Agent architectures, and bridging physical hardware with intelligent cloud workflows.
 
 ---
 
 ### 🛠️ Tech Stack & Tooling
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,c,postgres,sqlite,redis,docker,git,linux,react,fastapi,cloudflare&perline=14" alt="Skill Icons" />
+</div>
+
+<br />
+
 <table>
   <tr>
-    <td width="20%"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-    </td>
+    <td width="22%"><b>Languages</b></td>
+    <td>Python, TypeScript, JavaScript, C++, C, SQL, Bash</td>
   </tr>
   <tr>
-    <td width="20%"><b>AI & Agents</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/LiteLLM-20232A?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pipecat_Voice_AI-6C5CE7?style=flat-square&logo=webrtc&logoColor=white" />
-      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      <img src="https://img.shields.io/badge/Multi--Agent_Systems-00C896?style=flat-square" />
-    </td>
+    <td width="22%"><b>AI &amp; Agents</b></td>
+    <td>PyTorch, Gemini API, LiteLLM, Pipecat Voice AI, Hugging Face, Multi Agent Systems</td>
   </tr>
   <tr>
-    <td width="20%"><b>Web & Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
+    <td width="22%"><b>Web &amp; Backend</b></td>
+    <td>React, Node.js, FastAPI, Cloudflare Workers, Cloudflare D1, Tailwind CSS</td>
   </tr>
   <tr>
-    <td width="20%"><b>Databases & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
+    <td width="22%"><b>Databases &amp; DevOps</b></td>
+    <td>PostgreSQL, SQLite (FTS5), Redis, Docker, Git, GitHub Actions, Linux</td>
   </tr>
   <tr>
-    <td width="20%"><b>Systems & Hardware</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Embedded_C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firmware_Development-FF6F00?style=flat-square" />
-      <img src="https://img.shields.io/badge/Hardware_Integration-4A154B?style=flat-square&logo=raspberrypi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Distributed_ML-107C41?style=flat-square" />
-    </td>
+    <td width="22%"><b>Systems &amp; Hardware</b></td>
+    <td>Embedded C++, Firmware Development, Hardware Integration, Distributed ML</td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Featured Projects & Architectures
+### 🔀 Architecture Pipeline: Real Time Voice Agent
+
+```mermaid
+flowchart LR
+    A["Caller Audio Stream"] --> B["Pipecat Audio Pipeline"]
+    B --> C["Gemini Live S2S Engine"]
+    C --> D{"Grounding & Safety"}
+    D -->|"Query Cited Passages"| E[("SQLite FTS5 Manuals")]
+    D -->|"Safety Short Circuit"| F["Emergency Circuit Breaker"]
+    D -->|"Synthesize Response"| G["Sarvam AI Speech"]
+    G --> H["Live Telephony Stream"]
+
+    style A fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
+    style B fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
+    style C fill:#0d1117,stroke:#bc8cff,stroke-width:2px,color:#c9d1d9
+    style D fill:#0d1117,stroke:#f0883e,stroke-width:2px,color:#c9d1d9
+    style E fill:#0d1117,stroke:#3fb950,stroke-width:2px,color:#c9d1d9
+    style F fill:#0d1117,stroke:#f85149,stroke-width:2px,color:#c9d1d9
+    style G fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
+    style H fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
+```
+
+---
+
+### 🚀 Featured Projects &amp; Architectures
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/voice-on-call-ai-agent">🎙️ Voice On-Call AI Agent (Shubh)</a></h3>
-      <p align="center">Production-grade conversational voice agent for live telephony and real-time enterprise support.</p>
+      <p align="center">Production grade conversational voice agent runtime designed for live telephony and real time enterprise support.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Pipecat_Voice_AI-6C5CE7?style=flat-square&logo=webrtc&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_Live_S2S-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -104,44 +99,44 @@ I am a **Full-Stack Engineer** and **AI Systems Builder** passionate about archi
         <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
       <ul>
-        <li><b>Real-Time S2S:</b> Full-duplex Indian-English/Hinglish streaming with Gemini Live S2S & Pipecat.</li>
-        <li><b>Deterministic Safety & Grounding:</b> Model-independent safety circuits + SQLite FTS5 cited retrieval over product manuals.</li>
-        <li><b>Telephony & State:</b> Vobiz media streaming protocol and hybrid text checkpoints for session cycling.</li>
+        <li><b>Real Time S2S:</b> Full duplex Indian English and Hinglish streaming with Gemini Live S2S and Pipecat.</li>
+        <li><b>Deterministic Safety and Grounding:</b> Model independent safety circuits plus SQLite FTS5 cited retrieval over product manuals.</li>
+        <li><b>Telephony and State:</b> Real time audio streaming protocol and hybrid text checkpoints for session cycling.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/jarvis-meets-friday">🤖 Jarvis Meets Friday</a></h3>
-      <p align="center">Persistent two-agent collaborative office environment with verified execution.</p>
+      <p align="center">Persistent two agent collaborative office environment with verified execution.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Autonomous_Agents-6C5CE7?style=flat-square" />
         <img src="https://img.shields.io/badge/Cloud_Execution-2496ED?style=flat-square" />
       </p>
       <ul>
-        <li>Cloud execution paired with owner-reviewed laptop evidence collection.</li>
-        <li>Persistent agent memory, inter-agent messaging, and architectural roadmap.</li>
-        <li>Verified task delivery with dual-agent separation of concerns.</li>
+        <li>Cloud execution paired with owner reviewed laptop evidence collection.</li>
+        <li>Persistent agent memory, inter agent messaging, and architectural roadmap.</li>
+        <li>Verified task delivery with dual agent separation of concerns.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/frontier">⚡ Frontier</a></h3>
-      <p align="center">One-shot build discipline & parallel-safe multi-agent leases for AI coding.</p>
+      <p align="center">One shot build discipline and parallel safe multi agent leases for AI coding.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Stdlib_Only-000000?style=flat-square" />
         <img src="https://img.shields.io/badge/Cryptographic_Proof-00C896?style=flat-square" />
       </p>
       <ul>
-        <li>Guarantees correct context and SHA-bound verifiable build proofs.</li>
-        <li>Implements parallel-safe leases for concurrent agent operations.</li>
-        <li>Zero external dependencies: self-contained in a single standard library file.</li>
+        <li>Guarantees correct context and SHA bound verifiable build proofs.</li>
+        <li>Implements parallel safe leases for concurrent agent operations.</li>
+        <li>Zero external dependencies: self contained in a single standard library file.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/federated-credit-risk">🔒 Federated Credit Risk</a></h3>
-      <p align="center">Privacy-preserving ML across simulated banking nodes using FedAvg.</p>
+      <p align="center">Privacy preserving ML across simulated banking nodes using FedAvg.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Federated_Learning-FF6F00?style=flat-square" />
@@ -149,7 +144,7 @@ I am a **Full-Stack Engineer** and **AI Systems Builder** passionate about archi
       </p>
       <ul>
         <li>Simulates distributed financial institutions training risk models locally.</li>
-        <li>Aggregates model weights centrally without sharing raw customer data.</li>
+        <li>Aggregates model weights centrally using Federated Averaging (FedAvg).</li>
         <li>Guarantees zero raw customer financial data is transmitted across network boundaries.</li>
       </ul>
     </td>
@@ -158,9 +153,13 @@ I am a **Full-Stack Engineer** and **AI Systems Builder** passionate about archi
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity &amp; Telemetry
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmanager&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Telemetry Graph" />
+  
+  <br /><br />
+  
   <table border="0">
     <tr>
       <td>
