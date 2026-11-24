@@ -148,6 +148,16 @@ Hi! I am a developer and builder passionate about AI systems, agentic workflows,
 
 <br />
 
+---
+
+### 🌟 Open Source & Contributions
+
+<p align="center">
+  <a href="https://github.com/shahmanager?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=shahmanager&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub Achievements" />
+  </a>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,47,0,180,216,114,9,183&height=100&section=footer" width="100%" />
 </div>
