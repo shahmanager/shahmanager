@@ -21,9 +21,9 @@
 
 Hi! I am a developer and builder passionate about AI systems, agentic workflows, and hands-on systems programming. I enjoy building functional projects from first principles, learning how complex systems work under the hood, and connecting high level AI models with practical applications and physical hardware.
 
-▸ 🔭 **What I am working on:** Voice conversational agents, multi agent coordination setups, and full stack tools.  
-▸ ⚡ **Areas of exploration:** Real time speech pipelines (Pipecat, Gemini Live S2S), edge computing with Cloudflare Workers, and embedded C++ firmware.  
-▸ 🔬 **Curiosities:** How autonomous agents manage long term memory, privacy preserving distributed ML (Federated Learning), and writing clean, reliable code.  
+▸ 🔭 **What I am working on:** Natural language data engines, voice conversational agents, and multi agent coordination setups.  
+▸ ⚡ **Areas of exploration:** Typed compilers, real time speech pipelines (Pipecat, Gemini Live S2S), edge computing with Cloudflare Workers, and embedded C++ firmware.  
+▸ 🔬 **Curiosities:** Deterministic systems without external API dependency, how autonomous agents manage long term memory, and writing clean, reliable code.  
 ▸ 💬 **Let's talk about:** Python, TypeScript, React, AI experiments, hardware tinkering, and building things that solve real problems.
 
 ---
@@ -61,34 +61,26 @@ Hi! I am a developer and builder passionate about AI systems, agentic workflows,
 
 ---
 
-### 🔀 Architecture Pipeline: Real Time Voice Agent
-
-```mermaid
-flowchart LR
-    A["Caller Audio Stream"] --> B["Pipecat Audio Pipeline"]
-    B --> C["Gemini Live S2S Engine"]
-    C --> D{"Grounding & Safety"}
-    D -->|"Query Cited Passages"| E[("SQLite FTS5 Manuals")]
-    D -->|"Safety Short Circuit"| F["Safety Circuit Breaker"]
-    D -->|"Synthesize Response"| G["Sarvam AI Speech"]
-    G --> H["Live Telephony Stream"]
-
-    style A fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
-    style B fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
-    style C fill:#0d1117,stroke:#bc8cff,stroke-width:2px,color:#c9d1d9
-    style D fill:#0d1117,stroke:#f0883e,stroke-width:2px,color:#c9d1d9
-    style E fill:#0d1117,stroke:#3fb950,stroke-width:2px,color:#c9d1d9
-    style F fill:#0d1117,stroke:#f85149,stroke-width:2px,color:#c9d1d9
-    style G fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
-    style H fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
-```
-
----
-
 ### 🚀 Projects &amp; Experiments
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/shahmanager/queryscope">🔍 QueryScope</a></h3>
+      <p align="center">Natural language to SQL for business teams without an LLM API: zero API cost, typed compiler, and local retrieval.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python_3.10+-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dependencies-Zero-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/API_Cost-%240.00-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Compiler-Type_Safe-blueviolet?style=flat-square" />
+      </p>
+      <ul>
+        <li><b>Zero API Spend:</b> Translates common analytical business questions to SQL locally with zero external API fees.</li>
+        <li><b>Typed Compiler Pipeline:</b> Combines schema introspection, local retrieval, and a typed AST into parameterized SQL.</li>
+        <li><b>Safe by Construction:</b> Enforces read only queries and structural validation so no sensitive data leaves the host.</li>
+        <li><b>Measured Evaluation:</b> Validated on real public datasets with reproducible test suites and modeled ROI.</li>
+      </ul>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/voice-on-call-ai-agent">🎙️ Voice On-Call AI Agent (Shubh)</a></h3>
       <p align="center">A voice agent exploring live speech to speech conversations with grounded knowledge retrieval.</p>
@@ -105,6 +97,8 @@ flowchart LR
         <li><b>Telephony:</b> Streams live audio over WebSockets with state checkpointing between turns.</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/jarvis-meets-friday">🤖 Jarvis Meets Friday</a></h3>
       <p align="center">An experimental two agent setup exploring cloud execution, laptop verification, and memory.</p>
@@ -119,8 +113,6 @@ flowchart LR
         <li>Focuses on clear progress logging and verifiable completion criteria.</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/frontier">⚡ Frontier</a></h3>
       <p align="center">A lightweight Python utility exploring multi agent file leases and SHA based build verification.</p>
@@ -135,7 +127,9 @@ flowchart LR
         <li>Computes SHA hashes to ensure clean context boundaries and reproducible build steps.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center"><a href="https://github.com/shahmanager/federated-credit-risk">🔒 Federated Credit Risk</a></h3>
       <p align="center">A practical simulation of privacy preserving machine learning across banking nodes using FedAvg.</p>
       <p align="center">
